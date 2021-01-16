@@ -88,3 +88,10 @@ type: docs
 |1695|Maximum Erasure Value|[Go]({{< relref "/ChapterFour/1695.Maximum-Erasure-Value.md" >}})|Medium||||49.5%|
 |------------|-------------------------------------------------------|-------| ----------------| ---------------|-------------|-------------|-------------|
 |
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/String/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterOne/Linked_List/">下一页➡️</a></p>
+</div>
