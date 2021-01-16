@@ -198,3 +198,10 @@ func peakIndexInMountainArray(A []int) int {
 |------------|-------------------------------------------------------|-------| ----------------| ---------------|-------------|-------------|-------------|
 
 --|
+
+
+----------------------------------------------
+<div style="display: flex;justify-content: space-between;align-items: center;">
+<p><a href="https://books.halfrost.com/leetcode/ChapterTwo/Breadth_First_Search/">⬅️上一页</a></p>
+<p><a href="https://books.halfrost.com/leetcode/ChapterOne/Math/">下一页➡️</a></p>
+</div>
